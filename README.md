@@ -16,6 +16,7 @@
 | 📱 **Interactive One UI Web Dashboard** | [`index.html`](index.html) | Production-ready interactive web application with force-cold & cache toggle |
 | 📄 **Final 20-Query Output Contract** | [`final_submission_output.json`](final_submission_output.json) | Complete Appendix A schema-compliant JSON evaluation output |
 | 📖 **Technical Architecture Walkthrough** | [`walkthrough.md`](walkthrough.md) | Comprehensive engineering whitepaper and architecture deep-dive |
+| 🤖 **AI Disclosure Statement** | [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md) | Full transparency declaration on AI tools, models, and guardrails |
 
 ---
 
